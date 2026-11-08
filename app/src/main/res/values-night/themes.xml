@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Mode gelap: teks terang di menu -->
+    <style name="Theme.SetoranKosakata.Popup" parent="ThemeOverlay.AppCompat.Dark" />
+</resources>

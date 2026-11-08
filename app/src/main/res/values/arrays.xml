@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="languages">
+        <item>Inggris</item>
+        <item>Arab</item>
+        <item>Jepang</item>
+        <item>Mandarin</item>
+        <item>Korea</item>
+        <item>Jerman</item>
+        <item>Prancis</item>
+    </string-array>
+</resources>

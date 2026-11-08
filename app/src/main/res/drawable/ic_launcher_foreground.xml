@@ -1,0 +1,26 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Buku terbuka -->
+    <path
+        android:fillColor="#FFFFFFFF"
+        android:pathData="M30,36h22v38H30z" />
+    <path
+        android:fillColor="#FFFFFFFF"
+        android:pathData="M56,36h22v38H56z" />
+    <!-- Garis teks -->
+    <path
+        android:fillColor="#FF00796B"
+        android:pathData="M34,44h14v3H34z" />
+    <path
+        android:fillColor="#FF00796B"
+        android:pathData="M34,52h14v3H34z" />
+    <path
+        android:fillColor="#FF00796B"
+        android:pathData="M60,44h14v3H60z" />
+    <path
+        android:fillColor="#FF00796B"
+        android:pathData="M60,52h14v3H60z" />
+</vector>

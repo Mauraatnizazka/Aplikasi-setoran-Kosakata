@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Setoran Kosakata</string>
+
+    <!-- Navigasi -->
+    <string name="nav_today">Hari Ini</string>
+    <string name="nav_history">Riwayat</string>
+    <string name="nav_settings">Pengaturan</string>
+
+    <!-- Tab Hari Ini -->
+    <string name="header_today_label">Setoran hari ini</string>
+    <string name="count_format">%1$d/%2$d</string>
+    <string name="percent_format">%1$d%%</string>
+    <string name="progress_label">kosakata disetor</string>
+    <string name="motivation_start">Mulai setor %1$d kosakata hari ini!</string>
+    <string name="motivation_remaining">Tinggal %1$d kosakata lagi, semangat!</string>
+    <string name="motivation_done">Target hari ini tercapai. Mantap!</string>
+    <string name="week_title">7 hari terakhir</string>
+    <string name="stat_streak">Hari beruntun</string>
+    <string name="stat_total">Total kosakata</string>
+    <string name="stat_memorized">Sudah hafal</string>
+    <string name="section_today">Daftar setoran hari ini</string>
+    <string name="empty_today_title">Belum ada setoran hari ini</string>
+    <string name="empty_today_subtitle">Ketuk tombol Setor Kosakata untuk mulai. Target: %1$d kosakata.</string>
+    <string name="fab_add">Setor Kosakata</string>
+    <string name="status_memorized">Hafal</string>
+    <string name="desc_memorize">Tandai hafal</string>
+    <string name="desc_more">Menu lainnya</string>
+
+    <!-- Tab Riwayat -->
+    <string name="history_title">Riwayat Setoran</string>
+    <string name="history_summary">%1$d hari setoran · %2$d kosakata</string>
+    <string name="history_done">Target tercapai</string>
+    <string name="history_short">Kurang %1$d</string>
+    <string name="empty_history_title">Belum ada riwayat</string>
+    <string name="empty_history_subtitle">Setoran yang kamu simpan akan muncul di sini.</string>
+
+    <!-- Tab Pengaturan -->
+    <string name="settings_title">Pengaturan</string>
+    <string name="settings_subtitle">Atur tampilan dan target belajarmu</string>
+    <string name="setting_dark_title">Mode gelap</string>
+    <string name="setting_dark_desc">Ganti tampilan terang atau gelap</string>
+    <string name="setting_target_title">Target setoran harian</string>
+    <string name="setting_target_desc">Jumlah kosakata yang disetor tiap hari</string>
+    <string name="target_unit">kosakata per hari</string>
+    <string name="setting_language_title">Bahasa default</string>
+    <string name="minus">−</string>
+    <string name="plus">+</string>
+
+    <!-- Form setoran -->
+    <string name="add_vocab">Setor Kosakata</string>
+    <string name="edit_vocab">Edit Setoran</string>
+    <string name="form_info">Setoran ke-%1$d untuk %2$s\nTarget harian: %3$d kosakata</string>
+    <string name="word_hint">Kata / Frasa Asing</string>
+    <string name="meaning_hint">Arti (Bahasa Indonesia)</string>
+    <string name="language_hint">Bahasa</string>
+    <string name="example_hint">Contoh Kalimat (opsional)</string>
+    <string name="date_hint">Tanggal Setor</string>
+    <string name="save">Simpan</string>
+    <string name="save_next">Simpan &amp; Tambah Lagi</string>
+    <string name="word_required">Kata tidak boleh kosong</string>
+    <string name="meaning_required">Arti tidak boleh kosong</string>
+    <string name="vocab_added">Kosakata berhasil disetor</string>
+    <string name="vocab_updated">Kosakata berhasil diperbarui</string>
+    <string name="vocab_saved_next">Tersimpan. Lanjut kosakata berikutnya.</string>
+
+    <!-- Umum -->
+    <string name="delete_vocab_title">Hapus Kosakata</string>
+    <string name="delete_vocab_message">Apakah Anda yakin ingin menghapus kosakata ini?</string>
+    <string name="cancel">Batal</string>
+    <string name="delete">Hapus</string>
+    <string name="edit">Edit</string>
+</resources>
